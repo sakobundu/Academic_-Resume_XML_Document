@@ -1,0 +1,22 @@
+<!--Academic XML Resume.-->
+<Academic-info>
+	
+<Name>Sunday Akobundu</Name>
+	
+<Major>Digital Media and Web Tech BS</Major>
+	
+<UMGC Address='address'>3501 University Blvd E, Adelphi, MD 20783</UMGC>
+	
+<Course Id='01'>Comm 202 6381 Media and Society </Course>
+	
+<Course Id='02'>WRTG 393 6360 Advance Technical Writing </Course>
+	
+<Course Id='03'>CMST 341 6380 Principles of Multimedia I</Course>
+
+<Course Id='04'>CMST 386 6380 Principles of Web Design and Technology II</Course>
+
+<Course Id='Current'>CMST 450 7380 Web Development Using XML</Course>
+	
+<Graduation Id='Graduation'>Graduation</Graduation>
+
+	</Academic-info>
